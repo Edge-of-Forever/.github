@@ -1,6 +1,4 @@
-# [EOF]
-
-![EOF][0]
+# ![EOF][0]
 
 Edge of Forever is a different sort of [FiveM][1] server. It's a survival server, but there are no zombies, no plague, no nuclear winter, no apocalypse. Just the collapse of society as we know it. Gone are the fast cars and loose morals of Los Santos. The city is in ruins. The gangs have taken over. The land is occupied by Federal troops. The strong survive in small pockets in Blaine County.
 
