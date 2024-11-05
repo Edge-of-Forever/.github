@@ -30,9 +30,12 @@ For the first time, residents are truly on their own. There's no power, there's 
 - The airstrip in Grapeseed is the only place where black market goods can be imported.
 - Federals have infiltrated every level of society among the residents of the Republic. Can you tell friend from foe? Who's a spy and who's a trusted friend?
 
+## This is not your father's San Andreas
+No supercars. No life of crime. No thug life. Just survival.
+
 ## Under active development
 
-Be warned, it's very very early alpha testing phase. The economy framework is [ND Framework v2.0+][5] with heavy reliance on [Ox Inventory][6]. The economy is dependent on crafting and barter. Banks and cash no longer exist. Travel to the city of Los Santos is discouraged. In the future, there may be organized convoy missions to the port and airport to secure fuel and goods. But for now, we'll stay in the north of the island.
+Be warned, it's very very early alpha testing phase. Our test server is lovingly known as *Development Hell*. The economy framework has a heavy reliance on Overextended resources including [Ox Inventory][6]. The economy is dependent on scavanging, crafting and barter. Banks and cash no longer exist. Travel to the city of Los Santos is discouraged. In the future, there may be organized convoy missions to the port and airport to secure fuel and goods. But for now, we'll stay in the north of the island.
 
 ## Developers and testers are welcome
 
@@ -49,8 +52,9 @@ Thank you for checking us out!
 
 [0]: https://www.davedorm.com/images/eof_text_512.png
 [1]: https://fivem.net
-[2]: https://discord.gg/Yt9HdGWdSY
-[3]: https://cfx.re/join/op9q8y
+[2]: https://discord.gg/YahWKPxxkE
+[3]: https://cfx.re/join/v73pq5
 [4]: https://www.davedorm.com/images/eof_itty.png
 [5]: https://github.com/ND-Framework
 [6]: https://github.com/overextended/ox_inventory
+[7]: https://www.qbox.re
